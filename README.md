@@ -57,33 +57,33 @@ Front-End Developer | QA | Automation
 <img src="https://img.shields.io/badge/-Selenium-green?&style=flat-square&logo=selenium&color=green" />
 <img src="https://img.shields.io/badge/-Cucumber-green?&style=flat-square&logo=selenium&color=success" />
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pirasanthan-jesugeevegan&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirasanthan-jesugeevegan&hide=TeX&layout=compact&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pirasanthan-jesugeevegan&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirasanthan-jesugeevegan&hide=TeX&layout=compact&theme=graywhite )
 
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 <a href="https://github.com/pirasanthan-jesugeevegan/Buy-Product-E-commerce">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Buy-Product-E-commerce&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Buy-Product-E-commerce&theme=graywhite " />
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/cypress_PerlegoLoginForm)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=cypress_PerlegoLoginForm&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=cypress_PerlegoLoginForm&theme=graywhite " />
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/User-Registration-Selenium)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=User-Registration-Selenium&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=User-Registration-Selenium&theme=graywhite " />
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/Weather-App)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Weather-App&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Weather-App&theme=graywhite " />
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/Restful-API-Shop)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Restful-API-Shop&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Restful-API-Shop&theme=graywhite " />
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/Phonegap-Search-App)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Phonegap-Search-App&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Phonegap-Search-App&theme=graywhite " />
 </a>
