@@ -63,17 +63,21 @@ Front-End Developer | QA | Automation
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
-<a href="https://github.com/pirasanthan-jesugeevegan/Buy-Product-E-commerce">
+<a href="https://github.com/pirasanthan-jesugeevegan/amt-appium-skyscanner">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Buy-Product-E-commerce&theme=vue  " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-appium-skyscanner&theme=vue  " />
 </a>
-<a href="https://github.com/pirasanthan-jesugeevegan/cypress_PerlegoLoginForm)">
+<a href="https://github.com/pirasanthan-jesugeevegan/amt-cypres-E-commerce-website">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=cypress_PerlegoLoginForm&theme=vue  " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypres-E-commerce-website&theme=vue  " />
 </a>
-<a href="https://github.com/pirasanthan-jesugeevegan/User-Registration-Selenium)">
+<a href="https://github.com/pirasanthan-jesugeevegan/amt-cypress-PerlegoLoginForm">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=User-Registration-Selenium&theme=vue  " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-PerlegoLoginForm&theme=vue  " />
+</a>
+<a href="https://github.com/pirasanthan-jesugeevegan/amt-selenium-userRegistration">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-selenium-userRegistration&theme=vue  " />
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/Weather-App)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -83,7 +87,7 @@ Front-End Developer | QA | Automation
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Restful-API-Shop&theme=vue  " />
 </a>
-<a href="https://github.com/pirasanthan-jesugeevegan/Phonegap-Search-App)">
+<a href="https://github.com/pirasanthan-jesugeevegan/amt-cypress-Expedia">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Phonegap-Search-App&theme=vue  " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-Expedia&theme=vue  " />
 </a>
