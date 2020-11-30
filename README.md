@@ -62,7 +62,7 @@ Front-End Developer | QA | Automation
 
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-<h3>Automation</h3>
+<h3 align="center">Automation</h3>
 <a href="https://github.com/pirasanthan-jesugeevegan/amt-appium-skyscanner">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-appium-skyscanner&theme=vue  " />
@@ -83,7 +83,7 @@ Front-End Developer | QA | Automation
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-Expedia&theme=vue  " />
 </a>
-<h3>Dev</h3>
+<h3 align="center">Dev</h3>
 <a href="https://github.com/pirasanthan-jesugeevegan/Weather-App)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Weather-App&theme=vue  " />
