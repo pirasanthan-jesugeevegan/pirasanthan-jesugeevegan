@@ -64,35 +64,27 @@ Front-End Developer | QA | Automation
 <h2>💻 Check Out My Repos ⬇️ </h2>
 <h3>Automation</h3>
 <a href="https://github.com/pirasanthan-jesugeevegan/amt-appium-skyscanner">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-appium-skyscanner&theme=vue  " />
 </a>
-<a href="https://github.com/pirasanthan-jesugeevegan/amt-cypres-E-commerce-website">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<a href="https://github.com/pirasanthan-jesugeevegan/amt-cypress-e-commerce-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-e-commerce-website&theme=vue  " />
 </a>
-<a href="https://github.com/pirasanthan-jesugeevegan/amt-cypress-PerlegoLoginForm">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<a href="https://github.com/pirasanthan-jesugeevegan/amt-cypress-perlego_login_form">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-perlego_login_form&theme=vue  " />
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/amt-selenium-userRegistration">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-selenium-userRegistration&theme=vue  " />
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/amt-cypress-Expedia">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-Expedia&theme=vue  " />
 </a>
 <h3>Dev</h3>
-<a href="https://github.com/pirasanthan-jesugeevegan/Weather-App)">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<a href="https://github.com/pirasanthan-jesugeevegan/dev-weather-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=dev-weather-app&theme=vue  " />
 </a>
-<a href="https://github.com/pirasanthan-jesugeevegan/Restful-API-Shop)">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<a href="https://github.com/pirasanthan-jesugeevegan/dev-restful-api-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=dev-restful-api-shop&theme=vue  " />
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/dev-task-tracker">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=dev-task-tracker&theme=vue  " />
 </a>
