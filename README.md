@@ -86,9 +86,13 @@ Front-End Developer | QA | Automation
 <h3>Dev</h3>
 <a href="https://github.com/pirasanthan-jesugeevegan/Weather-App)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Weather-App&theme=vue  " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=dev-weather-app&theme=vue  " />
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/Restful-API-Shop)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=Restful-API-Shop&theme=vue  " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=dev-restful-api-shop&theme=vue  " />
+</a>
+<a href="https://github.com/pirasanthan-jesugeevegan/dev-task-tracker">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=dev-task-tracker&theme=vue  " />
 </a>
