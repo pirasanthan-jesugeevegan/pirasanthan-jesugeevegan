@@ -69,11 +69,11 @@ Front-End Developer | QA | Automation
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/amt-cypres-E-commerce-website">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypres-E-commerce-website&theme=vue  " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-e-commerce-website&theme=vue  " />
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/amt-cypress-PerlegoLoginForm">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-PerlegoLoginForm&theme=vue  " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-perlego_login_form&theme=vue  " />
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/amt-selenium-userRegistration">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
