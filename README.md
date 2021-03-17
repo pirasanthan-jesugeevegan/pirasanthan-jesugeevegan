@@ -7,7 +7,7 @@ Front-End Developer | QA | Automation
 
 
 <a href="http://pirasanth.com">
-  <img align="left" alt="Pirasanth's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webstorm.svg" />
+  <img align="left" alt="Pirasanth's Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />
 </a>
 
 <a href="www.linkedin.com/in/pirasanth-jesugeevegan">
