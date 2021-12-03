@@ -61,22 +61,25 @@ Front-End Developer | QA | Automation
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirasanthan-jesugeevegan&hide=TeX&layout=compact&theme=vue  )
 
 
-<h2>💻 Check Out My Repos ⬇️ </h2>
+<!-- <h2>💻 Check Out My Repos ⬇️ </h2>
 <h3>Automation</h3>
-<a href="https://github.com/pirasanthan-jesugeevegan/amt-appium-skyscanner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-appium-skyscanner&theme=vue  " />
-</a>
-<a href="https://github.com/pirasanthan-jesugeevegan/amt-cypress-e-commerce-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-e-commerce-website&theme=vue  " />
-</a>
 <a href="https://github.com/pirasanthan-jesugeevegan/amt-cypress-perlego_login_form">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-perlego_login_form&theme=vue  " />
+</a>
+<a href="https://github.com/pirasanthan-jesugeevegan/amt-cypress-Expedia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-Expedia&theme=vue  " />
+</a>
+<a href="https://github.com/pirasanthan-jesugeevegan/amt-appium-skyscanner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-appium-skyscanner&theme=vue  " />
 </a>
 <a href="https://github.com/pirasanthan-jesugeevegan/amt-selenium-userRegistration">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-selenium-userRegistration&theme=vue  " />
 </a>
-<a href="https://github.com/pirasanthan-jesugeevegan/amt-cypress-Expedia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-Expedia&theme=vue  " />
+<a href="https://github.com/pirasanthan-jesugeevegan/amt-cypress-e-commerce-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-e-commerce-website&theme=vue  " />
+</a>
+<a href="https://github.com/pirasanthan-jesugeevegan/amt-cypress-sanity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=amt-cypress-sanity&theme=vue  " />
 </a>
 <h3>Dev</h3>
 <a href="https://github.com/pirasanthan-jesugeevegan/dev-weather-app">
@@ -88,3 +91,4 @@ Front-End Developer | QA | Automation
 <a href="https://github.com/pirasanthan-jesugeevegan/dev-task-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=dev-task-tracker&theme=vue  " />
 </a>
+ -->
