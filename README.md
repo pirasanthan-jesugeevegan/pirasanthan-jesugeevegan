@@ -28,7 +28,6 @@ Front-End Developer | QA | Automation
 **Talking about Personal Stuffs:**
 
 
-- 🏢 I'm currently working at **Synchronoss**
 - ⚙️ I use daily: `.js`, `.html`, `.scss`, `.svg`, `.java.`, `.feature`
 - 🌍 I'm mostly active on [Instagram](https://www.instagram.com/qa_automation_pj/)
 - 🌱 Learning all about **Automation**
