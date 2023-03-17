@@ -1,64 +1,37 @@
-<p>
-Hi!👋 I'm Pirasanth<br>
+
+
+## Hi!👋 I'm Pirasanth
 Nice to meet you!<br>
-Please take a look around!<br>
 Front-End Developer | QA | Automation
-</p>
 
 
-<a href="http://pirasanth.com">
-  <img align="left" alt="Pirasanth's Website" width="22px" src="http://cdn.onlinewebfonts.com/svg/img_532695.png" />
-</a>
-
-<a href="www.linkedin.com/in/pirasanth-jesugeevegan">
-  <img align="left" alt="Pirasanth's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/qa_automation_pj/">
-  <img align="left" alt="Pirasanth's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pirasanthan.jesugeevegan)
-
-
-
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-  
-**Talking about Personal Stuffs:**
-
-
-- 🏢 I'm currently working at **Synchronoss**
 - ⚙️ I use daily: `.js`, `.html`, `.scss`, `.java.`, `.feature`
 - 🌍 I'm mostly active on [Instagram](https://www.instagram.com/qa_automation_pj/)
 - 🌱 Learning all about **Automation**
 - 💬 Ping me about **Development**, **Automation**, **Test Script**, **Test Cases**, **Design**
-- 📫 Reach me: [Instagram](https://www.instagram.com/qa_automation_pj/)
+
 - ⚡️ Fun fact: Gym is my second home 
-- 📝[Resume](http://pirasanth.com/Pirasanthan_Jesugeevegan_CV.pdf)
 
-**Languages and Tools:**  
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&color=yellow"/>
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/-node.js-green?&style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java" />
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-JIRA-blue?style=flat-square&logo=jira"/>
-<img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/-Confuence-172B4D?style=flat-square&logo=confluence"/>
-<img src="https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins&"/>
-<img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman"/>
-<img src="https://img.shields.io/badge/-Cypress-grey?&style=flat-square&logo=cypress&color=grey" />
-<img src="https://img.shields.io/badge/-Selenium-green?&style=flat-square&logo=selenium&color=green" />
-<img src="https://img.shields.io/badge/-Cucumber-green?&style=flat-square&logo=selenium&color=success" />
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pirasanthan-jesugeevegan&count_private=true&show_icons=true&include_all_commits=true&theme=vue  )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pirasanthan-jesugeevegan&hide=TeX&layout=compact&theme=vue  )
+
+
+
+ 
+## Talking about Personal Stuffs:
+
+###  💻 Visit my [website](https://pirasanth.com/)
+- Here you can [check my blog](https://pirasanth.com/blog) if you want to learn about automation
+### Visit my social media 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="twitter logo" height="16px"> Instagram: [`@qa_automation_pj`](https://www.instagram.com/qa_automation_pj/)
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="twitter logo" height="16px"> Linkden: [`@pirasanth-jesugeevegan`](https://www.linkedin.com/in/pirasanth-jesugeevegan/)
+
+<div>
+  <a href="https://github.com/pirasanthan-jesugeevegan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pirasanthan-jesugeevegan&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pirasanthan-jesugeevegan&&hide_progress=true&theme=default"/>
+</div>
+
+
 
 
 <!-- <h2>💻 Check Out My Repos ⬇️ </h2>
